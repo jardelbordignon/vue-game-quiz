@@ -1,23 +1,27 @@
 <p align="center">
-   <img src="https://github.com/jardelbordignon/nextjs-boilerplate/blob/main/public/img/print.png" width="100%"/>
+   <img src="https://github.com/jardelbordignon/vue-game-quiz/blob/main/public/screenshot.png" width="100%"/>
 </p>
 
 <h1 align="center">Vue.js Game Quiz</h1>
 
 # :computer: Technologies
+
 This project was made using the follow technologies:
 
-* [Vue.js](https://vuejs.org/)
-
+- [Vue.js](https://vuejs.org/)
 
 # :construction_worker: How to run
+
 **You need to install [Node.js](https://nodejs.org/en/download/) then:**
 
 ### Install Dependencies
+
 ```bash
 npm install
 ```
+
 ### Run Aplication
+
 ```bash
 npm run serve
 ```
